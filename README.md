@@ -17,12 +17,10 @@ Trains and evaluates a basic RNN model
 Generates text samples
 ➤ LSTM.ipynb and Transformer.ipynb:
 Assume tokenized data already exists
-
-Load data from .pt files
-
 Train and evaluate LSTM/Transformer models
-
 Generate sample outputs
-Install Dependencies
+
+
+➤Install Dependencies
 Create a virtual environment (optional) and install dependencies:
 pip install torch sentencepiece matplotlib nltk gdown

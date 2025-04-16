@@ -9,7 +9,7 @@ Performs tokenization using SentencePiece
 Trains and evaluates a basic RNN model
 
 Generates text samples
-RNN.ipynb:
+➤RNN.ipynb:
 Performs tokenization using SentencePiece
 
 Trains and evaluates a basic RNN model

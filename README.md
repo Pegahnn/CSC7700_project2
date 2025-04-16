@@ -9,7 +9,12 @@ Performs tokenization using SentencePiece
 Trains and evaluates a basic RNN model
 
 Generates text samples
+RNN.ipynb:
+Performs tokenization using SentencePiece
 
+Trains and evaluates a basic RNN model
+
+Generates text samples
 ➤ LSTM.ipynb and Transformer.ipynb:
 Assume tokenized data already exists
 
